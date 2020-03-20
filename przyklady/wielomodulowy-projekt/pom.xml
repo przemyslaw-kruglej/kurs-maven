@@ -38,9 +38,10 @@
         </executions>
       </plugin>
     </plugins>
-    <!--<pluginManagement>
+    <pluginManagement>
       <plugins>
         <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-assembly-plugin</artifactId>
           <version>3.2.0</version>
           <configuration>
@@ -59,7 +60,7 @@
           </executions>
         </plugin>
       </plugins>
-    </pluginManagement>-->
+    </pluginManagement>
   </build>
 
   <dependencies>
@@ -71,7 +72,7 @@
     </dependency>
   </dependencies>
 
-  <!--<dependencyManagement>
+  <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>org.apache.logging.log4j</groupId>
@@ -84,5 +85,5 @@
         <version>${log4j.version}</version>
       </dependency>
     </dependencies>
-  </dependencyManagement>-->
+  </dependencyManagement>
 </project>
