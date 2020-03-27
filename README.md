@@ -5,3 +5,6 @@ Będę wdzięczny za wszelkie uwagi i sugestie – mój adres kontaktowy to prze
 
 # Wersja HTML
 Wersja HTML dostępna jest na stronie https://kursjava.com/podstawy-maven
+
+# Licencja
+Dokument z kursem oraz jego treść nie mogą być powielane na innych stronach ani używane w celach komercyjnych bez zgody autora.
