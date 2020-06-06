@@ -25,6 +25,7 @@ Inne kursy mojego autorstwa:
 
 * [Nauka programowania w języku Java od podstaw](https://kursjava.com/wstep-do-kursu)
 * [Kurs tworzenia gier w języku Java](https://kursjava.com/tworzenie-gier)
+* [IntelliJ IDEA w akcji ](https://kursjava.com/intellij-idea-w-akcji)
 * [Podstawy linii poleceń](https://kursjava.com/podstawy-linii-polecen)
 
 Zacząłem także tworzyć serię artykułów [Przebranżowienie i praca programisty](https://kursjava.com/przebranzowienie-i-praca-programisty):
