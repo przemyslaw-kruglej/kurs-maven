@@ -13,7 +13,7 @@ Dokument z kursem oraz jego treść nie mogą być powielane na innych stronach 
 
 Utworzyłem kanał *Discord* do rozmów na temat programowania – zapraszam!
 
-[Kanał Discord: Kurs Java](https://discord.gg/GxHdfjb)
+[Kanał Discord: Kurs Java](https://kursjava.com/discord/)
 
 Discord to strona, na której można prowadzić rozmowy w formie chatu. Jeżeli masz jakieś pytania odnośnie programowania lub pracy programisty, to możesz je tam zadać – z chęcią pomogę/odpowiem!
 
